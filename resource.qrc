@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="hinhanh">
+    <file>Hinhanh/dacnhantam.jpg</file>
+    <file>Hinhanh/nguyenngocki.jpg</file>
+    <file>Hinhanh/nha-gia-kim.jpg</file>
+    <file>Hinhanh/nhung-cuon-sach-danh-cho-tuoi-tre-nen-doc.jpg</file>
+    <file>Hinhanh/python.webp</file>
+    <file>Hinhanh/Thuvien.jpg</file>
+    <file>Hinhanh/tuoitre.jpg</file>
+  </qresource>
+</RCC>
